@@ -1,7 +1,9 @@
 /part1/
 /part2/
 /part3/
+/part4/
 /Osa2/maidentiedot/.env
 node_modules
+.env
 .idea
 solution

@@ -75,6 +75,10 @@ const App = () => {
           setPersons(persons.concat(returnedPerson))
           notificate(`Added ${returnedPerson.name}`, `green`)
         })
+        .catch(error => {
+          console.log(error.response.data)
+          notificate(`${error.response.data.error}`, 'red')
+        })
     }
     setNewName('')
     setNewNumber('')
