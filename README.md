@@ -7,3 +7,4 @@ Tähän kansioon palautetaan Full Stack -kurssin tehtävät.
 * [Osa2](./Osa2/)
 * [Osa3](https://github.com/Kozbeli/phonebook-backend)
 * [Osa4](./Osa4/)
+* [Osa5](./Osa5/)
