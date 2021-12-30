@@ -10,4 +10,5 @@ Tähän kansioon palautetaan Full Stack -kurssin tehtävät.
 * [Osa5](./Osa5/) 
 * [Osa6](./Osa6/) 
 * [Osa7](./Osa7/) 
+* [Osa8](./Osa8/) 
 
